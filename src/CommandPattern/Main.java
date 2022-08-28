@@ -9,7 +9,7 @@ import CommandPattern.HardwareOrReceiver.KitchenLights;
 //There are 3 things in command pattern
 
 //Invoker -> which takes command
-//Commands -> Command has an object on which performs the action..i.e command has reference of receiver
+//Commands -> Command has an object which performs the action..i.e command has reference of receiver injected
 //Receiver -> which ultimately performs the action
 
 //invoker->command->receiver
