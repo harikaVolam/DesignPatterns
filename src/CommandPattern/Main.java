@@ -14,6 +14,7 @@ import CommandPattern.HardwareOrReceiver.KitchenLights;
 
 //invoker->command->receiver
 
+//The command pattern is equivalent of a callback function in procedural languages as we parametrize objects with an action to perform
 public class Main {
 
     public static void main(String[] args) {

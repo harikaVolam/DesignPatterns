@@ -4,6 +4,8 @@ package AdapterPattern;
 //Because of adapter we re-used the functionality of writing which is already written by pilotpen
 
 
+//In the Java API, one can find java.io.InputStreamReader and java.io.OutputStreamWriter as examples of the adapter pattern
+
 public class Main {
 
     public static void main(String[] args) {
