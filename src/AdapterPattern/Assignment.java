@@ -3,9 +3,6 @@ package AdapterPattern;
 public class Assignment {
 
     Pen p;
-
-
-
     public Pen getP() {
         return p;
     }
