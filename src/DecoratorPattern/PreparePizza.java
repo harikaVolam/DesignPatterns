@@ -15,7 +15,7 @@ public class PreparePizza {
         BasePizza pizza = new Mushroom(new ExtraCheese(new Margherita()));
         System.out.println(pizza.cost());
 
-        // FileInputStream is responsible for reading the file something add
+        // FileInputStream is responsible for reading the file jeevan kumar volam
         FileInputStream fileInputStream = new FileInputStream("myFile.txt");
         // BufferedInputStream extends FilterInputStream and not FileInputStream, it is
         // a decorator which enhances the functionality of the original object by wrapping over it.
