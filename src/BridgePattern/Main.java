@@ -6,6 +6,8 @@ import BridgePattern.ConcreteImplementer.IDBIPaymentSystem;
 import BridgePattern.RefinedAbstraction.CardPayment;
 import BridgePattern.RefinedAbstraction.NetBankingPayment;
 
+
+//https://medium.com/coding-becomes-easy/bridge-pattern-48150246e552
 public class Main {
 
     public static void main(String[] args) {
