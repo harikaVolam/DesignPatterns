@@ -1,6 +1,6 @@
 package ProtypeDesignPattern;
 
-
+//https://www.studytonight.com/java-examples/how-to-make-a-deep-copy-of-an-object-in-java
 //https://levelup.gitconnected.com/a-look-at-the-prototype-design-pattern-3e4032b072d2
 //Clone create a object with same data with new reference but internal object has same reference
 //inorder to have different reference we need to implement clone in child objects also...see implementation in smartphone class
