@@ -6,7 +6,7 @@ import BridgePattern.ConcreteImplementer.IDBIPaymentSystem;
 import BridgePattern.RefinedAbstraction.CardPayment;
 import BridgePattern.RefinedAbstraction.NetBankingPayment;
 
-
+//https://stackoverflow.com/questions/12346326/cap-theorem-availability-and-partition-tolerance
 //https://medium.com/coding-becomes-easy/bridge-pattern-48150246e552
 public class Main {
 
